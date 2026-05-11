@@ -1,0 +1,28 @@
+{
+  "kamus_istilah": [
+    {"term": "Hukum", "content": "Peraturan yang dibuat untuk mengatur perilaku manusia agar tertib dan adil."},
+    {"term": "Hak", "content": "Segala sesuatu yang berhak diterima atau dimiliki seseorang sejak lahir atau aturan."},
+    {"term": "Kewajiban", "content": "Segala sesuatu yang harus dilakukan dengan penuh tanggung jawab."},
+    {"term": "Praduga Tak Bersalah", "content": "Prinsip bahwa seseorang dianggap tidak bersalah sebelum ada putusan pengadilan."},
+    {"term": "12 Asas Praduga Tak Bersalah", "content": "Keadilan, Kemanusiaan, Keseimbangan, Kesepadanan, Keselarasan, Keterbukaan, Kejujuran, Kecermatan, Kemandirian, Kepastian Hukum, Kemudahan, dan Keamanan."}
+  ],
+  "penjelasan_singkat": [
+    {"topic": "Pondasi Hak & Kewajiban", "detail": "Hak dan kewajiban tidak bisa dipisahkan; untuk mendapatkan hak, seseorang harus menjalankan kewajibannya secara seimbang."},
+    {"topic": "Alur Status Hukum", "detail": "Proses transisi status hukum seseorang: Dimulai dari Tersangka (Penyidikan), menjadi Terdakwa (Persidangan), dan akhirnya Terpidana (Putusan Inkracht)."},
+    {"topic": "Prinsip Keadilan", "detail": "Hakim harus yakin berdasarkan alat bukti yang sah sebelum menjatuhkan vonis, memastikan tidak ada orang yang dihukum tanpa bukti kuat."},
+    {"topic": "Asas Utama (Due Process)", "detail": "Proses hukum harus adil dan sesuai prosedur, di mana beban pembuktian ada pada penuntut, bukan pada terdakwa."}
+  ],
+  "mengapa_penting": [
+    {"goal": "Keseimbangan Sosial", "reason": "Menjamin kehidupan masyarakat tetap tertib karena setiap orang menghormati batas antara hak diri sendiri dan hak orang lain."},
+    {"goal": "Martabat Manusia", "reason": "Melindungi individu dari penghakiman sepihak dan memastikan hak dasar tetap terjaga meskipun dalam proses hukum."},
+    {"goal": "Keadilan yang Merata", "reason": "Menjamin bahwa hukum berlaku sama bagi setiap orang tanpa pandang bulu berdasarkan asas-asas hukum yang tetap."},
+    {"goal": "Menghindari Salah Sangka", "reason": "Mencegah terjadinya 'error in persona' atau salah hukum melalui proses pembuktian yang sangat ketat."}
+  ],
+  "referensi_hukum": [
+    {"ref": "Dasar Hak & Kewajiban", "law": "UUD 1945 Pasal 28A–28J (Hak) dan Pasal 27 ayat (1) (Kewajiban)."},
+    {"ref": "Presumption of Innocence", "law": "Pasal 8 ayat (1) UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman."},
+    {"ref": "Status Hukum (Status Inmate)", "law": "KUHAP Pasal 1 angka 14 (Tersangka), angka 15 (Terdakwa), dan angka 32 (Terpidana)."},
+    {"ref": "Alat Bukti Sah", "law": "KUHAP Pasal 184 ayat (1): Keterangan Saksi, Ahli, Surat, Petunjuk, dan Keterangan Terdakwa."},
+    {"ref": "Beban Pembuktian", "law": "Pasal 66 KUHAP: Tersangka atau terdakwa tidak dibebani kewajiban pembuktian."}
+  ]
+}
