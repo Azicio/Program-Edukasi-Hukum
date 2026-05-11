@@ -1,28 +1,58 @@
 {
   "kamus_istilah": [
-    {"term": "Hukum", "content": "Peraturan yang dibuat untuk mengatur perilaku manusia agar tertib dan adil."},
-    {"term": "Hak", "content": "Segala sesuatu yang berhak diterima atau dimiliki seseorang sejak lahir atau aturan."},
-    {"term": "Kewajiban", "content": "Segala sesuatu yang harus dilakukan dengan penuh tanggung jawab."},
-    {"term": "Praduga Tak Bersalah", "content": "Prinsip bahwa seseorang dianggap tidak bersalah sebelum ada putusan pengadilan."},
-    {"term": "12 Istilah dalam Praduga Tak Bersalah", "content": "Keadilan, Kemanusiaan, Keseimbangan, Kesepadanan, Keselarasan, Keterbukaan, Kejujuran, Kecermatan, Kemandirian, Kepastian Hukum, Kemudahan, dan Keamanan."}
+    {
+      "term": "Definisi Dasar",
+      "is_dropdown": true,
+      "details": [
+        {"item": "Hukum", "desc": "Peraturan yang dibuat untuk mengatur perilaku manusia agar tertib dan adil di masyarakat."},
+        {"item": "Hak", "desc": "Segala sesuatu yang berhak diterima atau dimiliki seseorang sejak lahir atau karena aturan."},
+        {"item": "Kewajiban", "desc": "Segala sesuatu yang harus dilakukan dengan penuh tanggung jawab."},
+        {"item": "Praduga Tak Bersalah", "desc": "Prinsip bahwa seseorang dianggap tidak bersalah sebelum ada putusan pengadilan yang sah."}
+      ]
+    },
+    {
+      "term": "12 Istilah Penting dalam Proses Hukum", 
+      "is_dropdown": true,
+      "details": [
+        {"item": "Praduga Tak Bersalah", "desc": "Seseorang wajib dianggap tidak bersalah sampai ada putusan hakim yang inkracht."},
+        {"item": "Tersangka", "desc": "Orang yang diduga pelaku berdasarkan bukti permulaan (Penyidikan)."},
+        {"item": "Terdakwa", "desc": "Tersangka yang sudah masuk tahap pemeriksaan di sidang pengadilan."},
+        {"item": "Terpidana", "desc": "Orang yang menjalani hukuman berdasarkan putusan tetap pengadilan."},
+        {"item": "Barang Bukti", "desc": "Objek fisik (senjata, dokumen asli, kendaraan) untuk meyakinkan hakim."},
+        {"item": "Alat Bukti", "desc": "Sarana hukum sah menurut Pasal 184 KUHAP:\n- **Keterangan Saksi**\n- **Keterangan Ahli**\n- **Surat**\n- **Petunjuk**\n- **Keterangan Terdakwa**"},
+        {"item": "Saksi", "desc": "Orang yang melihat, mendengar, atau mengalami sendiri suatu kejadian pidana."},
+        {"item": "Asas Keadilan", "desc": "Perlakuan seimbang dan sama rata di depan hukum (Equality before the law)."},
+        {"item": "Due Process of Law", "desc": "Jaminan bahwa setiap orang berhak atas proses hukum yang benar dan adil."},
+        {"item": "Beban Pembuktian", "desc": "Kewajiban membuktikan kesalahan ada pada Jaksa, bukan pada Terdakwa (Pasal 66 KUHAP)."},
+        {"item": "Putusan Pengadilan", "desc": "Hasil akhir persidangan yang menentukan status hukum seseorang."},
+        {"item": "Asas Non-Diskriminasi", "desc": "Hukum tidak membedakan suku, agama, ras, atau status sosial."}
+      ]
+    }
   ],
   "penjelasan_singkat": [
-    {"topic": "Pondasi Hak & Kewajiban", "detail": "Hak dan kewajiban tidak bisa dipisahkan; untuk mendapatkan hak, seseorang harus menjalankan kewajibannya secara seimbang."},
-    {"topic": "Alur Status Hukum", "detail": "Proses transisi status hukum seseorang: Dimulai dari Tersangka (Penyidikan), menjadi Terdakwa (Persidangan), dan akhirnya Terpidana (Putusan Inkracht)."},
-    {"topic": "Prinsip Keadilan", "detail": "Hakim harus yakin berdasarkan alat bukti yang sah sebelum menjatuhkan vonis, memastikan tidak ada orang yang dihukum tanpa bukti kuat."},
-    {"topic": "Asas Utama (Due Process)", "detail": "Proses hukum harus adil dan sesuai prosedur, di mana beban pembuktian ada pada penuntut, bukan pada terdakwa."}
+    {
+      "topic": "Hak & Kewajiban (Contoh Nyata)", 
+      "detail": "### **A. Daftar Hak Individu**\n- Hak untuk hidup & mendapatkan pendidikan.\n- Hak berpendapat & perlindungan hukum.\n- Hak memperoleh pekerjaan.\n\n*Contoh: Siswa berhak mendapat pelajaran dari guru.*\n\n### **B. Daftar Kewajiban**\n- Mematuhi hukum & menjaga ketertiban.\n- Menghormati hak orang lain.\n- Membayar pajak.\n\n*Contoh: Siswa wajib mengerjakan tugas & mematuhi aturan sekolah.*"
+    },
+    {
+      "topic": "Hubungan Hak & Kewajiban", 
+      "detail": "Hak dan Kewajiban adalah dua sisi mata uang yang tidak bisa dipisahkan:\n- Jika ingin mendapatkan hak, jalankan kewajiban.\n- Hak kita dibatasi oleh hak orang lain.\n- **Kesimpulan**: Keduanya harus seimbang agar tercipta kehidupan yang adil."
+    },
+    {
+      "topic": "Prinsip Keadilan di Pengadilan", 
+      "detail": "- **Praduga Tak Bersalah**: Melindungi martabat agar tidak 'dihukum' oleh opini publik sebelum vonis.\n- **Alat vs Barang Bukti**: Alat bukti adalah keterangan sah, barang bukti adalah objek fisiknya.\n- **Beban Pembuktian**: Menjamin terdakwa tidak perlu membuktikan dirinya tidak bersalah; Jaksa yang harus membuktikan kesalahan.\n- **Due Process**: Prosedur adalah pelindung hak asasi manusia dalam sistem peradilan."
+    }
   ],
   "mengapa_penting": [
-    {"goal": "Keseimbangan Sosial", "reason": "Menjamin kehidupan masyarakat tetap tertib karena setiap orang menghormati batas antara hak diri sendiri dan hak orang lain."},
-    {"goal": "Martabat Manusia", "reason": "Melindungi individu dari penghakiman sepihak dan memastikan hak dasar tetap terjaga meskipun dalam proses hukum."},
-    {"goal": "Keadilan yang Merata", "reason": "Menjamin bahwa hukum berlaku sama bagi setiap orang tanpa pandang bulu berdasarkan asas-asas hukum yang tetap."},
-    {"goal": "Menghindari Salah Sangka", "reason": "Mencegah terjadinya 'error in persona' atau salah hukum melalui proses pembuktian yang sangat ketat."}
+    {"goal": "Keseimbangan Sosial", "reason": "Menghindari konflik antar individu dengan menetapkan batas hak dan kewajiban yang jelas."},
+    {"goal": "Melindungi Martabat Manusia", "reason": "Asas Praduga Tak Bersalah memastikan setiap orang diperlakukan sebagai manusia terhormat selama proses hukum."},
+    {"goal": "Menjamin Keadilan Merata", "reason": "Memberikan kepastian bahwa hukum tidak tajam ke bawah dan tumpul ke atas melalui asas non-diskriminasi."},
+    {"goal": "Menghindari Kesalahan Hukum", "reason": "Proses pembuktian yang ketat dan Due Process mencegah orang yang tidak bersalah masuk penjara (Error in persona)."}
   ],
   "referensi_hukum": [
-    {"ref": "Dasar Hak & Kewajiban", "law": "UUD 1945 Pasal 28A–28J (Hak) dan Pasal 27 ayat (1) (Kewajiban)."},
-    {"ref": "Presumption of Innocence", "law": "Pasal 8 ayat (1) UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman."},
-    {"ref": "Status Hukum (Status Inmate)", "law": "KUHAP Pasal 1 angka 14 (Tersangka), angka 15 (Terdakwa), dan angka 32 (Terpidana)."},
-    {"ref": "Alat Bukti Sah", "law": "KUHAP Pasal 184 ayat (1): Keterangan Saksi, Ahli, Surat, Petunjuk, dan Keterangan Terdakwa."},
-    {"ref": "Beban Pembuktian", "law": "Pasal 66 KUHAP: Tersangka atau terdakwa tidak dibebani kewajiban pembuktian."}
+    {"ref": "UUD 1945 (Dasar Negara)", "law": "Pasal 28A–28J (HAM) dan Pasal 27 ayat (1) (Kewajiban Warga Negara)."},
+    {"ref": "Kekuasaan Kehakiman", "law": "UU No. 48 Tahun 2009 Pasal 8 ayat (1) tentang Asas Praduga Tak Bersalah."},
+    {"ref": "Hukum Acara Pidana (KUHAP)", "law": "Pasal 1 (Status Hukum), Pasal 66 (Beban Pembuktian), Pasal 184 (Alat Bukti Sah)."},
+    {"ref": "Due Process", "law": "Prinsip Internasional yang diadopsi ke dalam sistem peradilan pidana Indonesia."}
   ]
 }
