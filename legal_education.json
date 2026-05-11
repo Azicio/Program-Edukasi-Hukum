@@ -32,48 +32,23 @@
   "penjelasan_singkat": [
     {
       "topic": "Pondasi Dasar: Hak & Kewajiban",
-      "detail": "Inti dari kehidupan bermasyarakat adalah keseimbangan. Tidak ada hak tanpa kewajiban, begitu juga sebaliknya.<br><br>"
-               "<b>• Hak:</b> \"Jatah\" atau sesuatu yang seharusnya kita terima (contoh: sekolah, perlindungan).<br>"
-               "<b>• Kewajiban:</b> Tugas atau tanggung jawab yang harus kita tunaikan (contoh: bayar pajak, taat aturan).<br>"
-               "<b>• Hukum:</b> \"Pagar\" atau aturan main agar hak dan kewajiban setiap orang tidak saling tabrakan."
+      "detail": "Inti dari kehidupan bermasyarakat adalah keseimbangan. Tidak ada hak tanpa kewajiban, begitu juga sebaliknya.<br><br><b>• Hak:</b> \"Jatah\" atau sesuatu yang seharusnya kita terima (contoh: sekolah, perlindungan).<br><b>• Kewajiban:</b> Tugas atau tanggung jawab yang harus kita tunaikan (contoh: bayar pajak, taat aturan).<br><b>• Hukum:</b> \"Pagar\" atau aturan main agar hak dan kewajiban setiap orang tidak saling tabrakan."
     },
     {
       "topic": "Hak & Kewajiban (Contoh Nyata)",
-      "detail": "### **A. Daftar Hak Individu**\n"
-               "- Hak untuk hidup & mendapatkan pendidikan.\n"
-               "- Hak berpendapat & perlindungan hukum.\n"
-               "- Hak memperoleh pekerjaan.\n\n"
-               "*Contoh: Siswa berhak mendapat pelajaran dari guru.*\n\n"
-               "### **B. Daftar Kewajiban**\n"
-               "- Mematuhi hukum & menjaga ketertiban.\n"
-               "- Menghormati hak orang lain.\n"
-               "- Membayar pajak.\n"
-               "- Belajar (bagi pelajar).\n\n"
-               "*Contoh: Siswa wajib mengerjakan tugas & mematuhi aturan sekolah.*"
+      "detail": "### **A. Daftar Hak Individu**\n- Hak untuk hidup & mendapatkan pendidikan.\n- Hak berpendapat & perlindungan hukum.\n- Hak memperoleh pekerjaan.\n\n*Contoh: Siswa berhak mendapat pelajaran dari guru.*\n\n### **B. Daftar Kewajiban**\n- Mematuhi hukum & menjaga ketertiban.\n- Menghormati hak orang lain.\n- Membayar pajak.\n- Belajar (bagi pelajar).\n\n*Contoh: Siswa wajib mengerjakan tugas & mematuhi aturan sekolah.*"
     },
     {
       "topic": "Hubungan Hak & Kewajiban",
-      "detail": "Hak dan Kewajiban adalah dua sisi mata uang yang tidak bisa dipisahkan:\n"
-               "- Jika ingin mendapatkan hak, jalankan kewajiban.\n"
-               "- Hak kita dibatasi oleh hak orang lain.\n\n"
-               "Contoh: Kamu punya hak berbicara, tapi kamu juga punya kewajiban untuk tidak menyakiti orang lain.\n\n"
-               "**Kesimpulan**: Hak = sesuatu yang kita terima; Kewajiban = sesuatu yang harus kita lakukan. Keduanya harus seimbang agar tercipta kehidupan yang adil dan tertib."
+      "detail": "Hak dan Kewajiban adalah dua sisi mata uang yang tidak bisa dipisahkan:\n- Jika ingin mendapatkan hak, jalankan kewajiban.\n- Hak kita dibatasi oleh hak orang lain.\n\nContoh: Kamu punya hak berbicara, tapi kamu juga punya kewajiban untuk tidak menyakiti orang lain.\n\n**Kesimpulan**: Hak = sesuatu yang kita terima; Kewajiban = sesuatu yang harus kita lakukan. Keduanya harus seimbang agar tercipta kehidupan yang adil dan tertib."
     },
     {
       "topic": "Alur Status Hukum Seseorang",
-      "detail": "Dalam sistem hukum, status seseorang berubah seiring berjalannya proses pemeriksaan. Penting untuk tidak langsung menghakimi sebelum ada putusan final.<br><br>"
-               "<b>Tersangka</b> → Baru diduga bersalah berdasarkan bukti awal (masih di kepolisian).<br>"
-               "<b>Terdakwa</b> → Sedang menjalani proses persidangan di depan Hakim.<br>"
-               "<b>Terpidana</b> → Sudah resmi dinyatakan bersalah oleh Hakim dan harus menjalani hukuman."
+      "detail": "Dalam sistem hukum, status seseorang berubah seiring berjalannya proses pemeriksaan. Penting untuk tidak langsung menghakimi sebelum ada putusan final.<br><br><b>Tersangka</b> → Baru diduga bersalah berdasarkan bukti awal (masih di kepolisian).<br><b>Terdakwa</b> → Sedang menjalani proses persidangan di depan Hakim.<br><b>Terpidana</b> → Sudah resmi dinyatakan bersalah oleh Hakim dan harus menjalani hukuman."
     },
     {
       "topic": "Prinsip Keadilan di Pengadilan",
-      "detail": "- **Praduga Tak Bersalah**: Jangan menganggap orang jahat sebelum hakim mengetuk palu.\n"
-               "- **Alat & Barang Bukti**: \"Senjata\" hukum untuk mencari kebenaran, bisa berupa saksi, surat, atau benda fisik.\n"
-               "- **Beban Pembuktian**: Bukan tertuduh yang harus membuktikan dia jujur, tapi penuntut yang harus membuktikan bahwa tertuduh itu salah.\n"
-               "- **Due Process of Law**: Proses hukum harus berjalan sesuai prosedur resmi, tidak boleh asal tangkap atau asal hukum.\n"
-               "- **Non-Diskriminasi**: Semua orang sama di mata hukum, mau kaya, miskin, pejabat, atau rakyat biasa.\n"
-               "- **Putusan Pengadilan**: Hasil akhir yang bersifat mengikat dan menentukan nasib hukum seseorang."
+      "detail": "- **Praduga Tak Bersalah**: Jangan menganggap orang jahat sebelum hakim mengetuk palu.\n- **Alat & Barang Bukti**: \"Senjata\" hukum untuk mencari kebenaran, bisa berupa saksi, surat, atau benda fisik.\n- **Beban Pembuktian**: Bukan tertuduh yang harus membuktikan dia jujur, tapi penuntut yang harus membuktikan bahwa tertuduh itu salah.\n- **Due Process of Law**: Proses hukum harus berjalan sesuai prosedur resmi, tidak boleh asal tangkap atau asal hukum.\n- **Non-Diskriminasi**: Semua orang sama di mata hukum, mau kaya, miskin, pejabat, atau rakyat biasa.\n- **Putusan Pengadilan**: Hasil akhir yang bersifat mengikat dan menentukan nasib hukum seseorang."
     },
     {
       "topic": "Pesan Utama",
@@ -81,76 +56,51 @@
     },
     {
       "topic": "Kesimpulan Ringkas",
-      "detail": "Istilah-istilah ini penting agar kita:<br>"
-               "1. <b>Melek Hukum:</b> Tidak mudah ditipu atau diintimidasi.<br>"
-               "2. <b>Berperilaku Adil:</b> Tidak ikut-ikutan menghujat orang yang baru berstatus \"Tersangka\".<br>"
-               "3. <b>Warga Negara yang Baik:</b> Menjalankan kewajiban dengan sadar demi kenyamanan bersama.<br><br>"
-               "Intinya: Memahami hukum adalah cara terbaik untuk menjaga diri sendiri dan orang-orang yang kita sayangi dari ketidakadilan."
+      "detail": "Istilah-istilah ini penting agar kita:<br>1. <b>Melek Hukum:</b> Tidak mudah ditipu atau diintimidasi.<br>2. <b>Berperilaku Adil:</b> Tidak ikut-ikutan menghujat orang yang baru berstatus \"Tersangka\".<br>3. <b>Warga Negara yang Baik:</b> Menjalankan kewajiban dengan sadar demi kenyamanan bersama.<br><br>Intinya: Memahami hukum adalah cara terbaik untuk menjaga diri sendiri dan orang-orang yang kita sayangi dari ketidakadilan."
     }
   ],
   "mengapa_penting": [
     {
       "goal": "Menjaga Keseimbangan Sosial (Hak & Kewajiban)",
-      "reason": "<b>Mencegah Sikap Egois:</b> Jika orang hanya menuntut hak tanpa menjalankan kewajiban, fasilitas umum dan ketertiban akan hancur.<br><br>"
-                "<b>Mencegah Penindasan:</b> Mengetahui hak kita berarti kita tahu kapan seseorang sedang melanggar batas privasi atau kebebasan kita."
+      "reason": "<b>Mencegah Sikap Egois:</b> Jika orang hanya menuntut hak tanpa menjalankan kewajiban, fasilitas umum dan ketertiban akan hancur.<br><br><b>Mencegah Penindasan:</b> Mengetahui hak kita berarti kita tahu kapan seseorang sedang melanggar batas privasi atau kebebasan kita."
     },
     {
       "goal": "Melindungi Martabat Manusia (Praduga Tak Bersalah)",
-      "reason": "<b>Mencegah \"Trial by Press\":</b> Seringkali orang sudah dihujat di media sosial padahal belum tentu salah. Prinsip ini melindungi nama baik seseorang sampai ada bukti sah.<br><br>"
-                "<b>Kepastian Hukum:</b> Memastikan bahwa yang masuk penjara adalah orang yang benar‑benar bersalah, bukan orang yang hanya \"kebetulan ada di tempat kejadian\"."
+      "reason": "<b>Mencegah \"Trial by Press\":</b> Seringkali orang sudah dihujat di media sosial padahal belum tentu salah. Prinsip ini melindungi nama baik seseorang sampai ada bukti sah.<br><br><b>Kepastian Hukum:</b> Memastikan bahwa yang masuk penjara adalah orang yang benar‑benar bersalah, bukan orang yang hanya \"kebetulan ada di tempat kejadian\"."
     },
     {
       "goal": "Menjamin Keadilan yang Merata (Asas Hukum)",
-      "reason": "<b>Kesamaan di Mata Hukum:</b> Tanpa istilah ini, orang kuat atau kaya bisa saja membuat aturan sendiri. Istilah ini menjamin bahwa \"siapa pun kamu, prosedurnya tetap sama.\"<br><br>"
-                "<b>Prosedur yang Jelas:</b> Due Process of Law memastikan polisi atau jaksa tidak bisa bertindak semau mereka. Semuanya harus ada surat tugas, bukti yang sah, dan proses pengadilan yang terbuka."
+      "reason": "<b>Kesamaan di Mata Hukum:</b> Tanpa istilah ini, orang kuat atau kaya bisa saja membuat aturan sendiri. Istilah ini menjamin bahwa \"siapa pun kamu, prosedurnya tetap sama.\"<br><br><b>Prosedur yang Jelas:</b> Due Process of Law memastikan polisi atau jaksa tidak bisa bertindak semau mereka. Semuanya harus ada surat tugas, bukti yang sah, dan proses pengadilan yang terbuka."
     },
     {
       "goal": "Menghindari Salah Sangka dalam Proses Hukum",
-      "reason": "Pembedaan antara <b>Alat Bukti</b> dan <b>Barang Bukti</b>, atau antara <b>Saksi</b> dan <b>Ahli</b>, sangat penting agar masyarakat paham bagaimana kebenaran dicari. "
-                "Dengan memahami perbedaan ini, kita bisa menilai apakah sebuah perkara sudah didukung bukti yang cukup atau masih sebatas dugaan."
+      "reason": "Pembedaan antara <b>Alat Bukti</b> dan <b>Barang Bukti</b>, atau antara <b>Saksi</b> dan <b>Ahli</b>, sangat penting agar masyarakat paham bagaimana kebenaran dicari. Dengan memahami perbedaan ini, kita bisa menilai apakah sebuah perkara sudah didukung bukti yang cukup atau masih sebatas dugaan."
     }
   ],
   "referensi_hukum": [
     {
       "ref": "UUD 1945 – Hak & Kewajiban Dasar",
-      "law": "• Hak atas pendidikan: Pasal 31 ayat (1)\n"
-            "• Hak atas perlindungan & kepastian hukum: Pasal 28D ayat (1)\n"
-            "• Kewajiban mematuhi hukum: Pasal 27 ayat (1)\n"
-            "• Kewajiban menghormati hak orang lain: Pasal 28J ayat (1)"
+      "law": "• Hak atas pendidikan: Pasal 31 ayat (1)\n• Hak atas perlindungan & kepastian hukum: Pasal 28D ayat (1)\n• Kewajiban mematuhi hukum: Pasal 27 ayat (1)\n• Kewajiban menghormati hak orang lain: Pasal 28J ayat (1)"
     },
     {
       "ref": "Asas Praduga Tak Bersalah",
-      "law": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman, Pasal 8 ayat (1):\n"
-            "\"Setiap orang yang disangka, ditangkap, ditahan, dituntut, dan/atau dihadapkan di depan pengadilan wajib dianggap tidak bersalah sebelum ada putusan pengadilan yang menyatakan kesalahannya dan telah memperoleh kekuatan hukum tetap.\"\n"
-            "Juga ditegaskan dalam Penjelasan Umum KUHAP butir ke-3 huruf c."
+      "law": "UU No. 48 Tahun 2009 tentang Kekuasaan Kehakiman, Pasal 8 ayat (1):\n\"Setiap orang yang disangka, ditangkap, ditahan, dituntut, dan/atau dihadapkan di depan pengadilan wajib dianggap tidak bersalah sebelum ada putusan pengadilan yang menyatakan kesalahannya dan telah memperoleh kekuatan hukum tetap.\"\nJuga ditegaskan dalam Penjelasan Umum KUHAP butir ke-3 huruf c."
     },
     {
       "ref": "Status Hukum (Tersangka, Terdakwa, Terpidana)",
-      "law": "KUHAP:\n"
-            "• Tersangka: Pasal 1 angka 14\n"
-            "• Terdakwa: Pasal 1 angka 15\n"
-            "• Terpidana: Pasal 1 angka 32"
+      "law": "KUHAP:\n• Tersangka: Pasal 1 angka 14\n• Terdakwa: Pasal 1 angka 15\n• Terpidana: Pasal 1 angka 32"
     },
     {
       "ref": "Alat Bukti Sah",
-      "law": "Pasal 184 ayat (1) KUHAP:\n"
-            "Alat bukti sah terdiri dari:\n"
-            "1. Keterangan Saksi\n"
-            "2. Keterangan Ahli\n"
-            "3. Surat\n"
-            "4. Petunjuk\n"
-            "5. Keterangan Terdakwa\n\n"
-            "Catatan: Barang bukti (pisau, narkoba, dokumen asli) digunakan untuk mendukung alat bukti di persidangan."
+      "law": "Pasal 184 ayat (1) KUHAP:\nAlat bukti sah terdiri dari:\n1. Keterangan Saksi\n2. Keterangan Ahli\n3. Surat\n4. Petunjuk\n5. Keterangan Terdakwa\n\nCatatan: Barang bukti (pisau, narkoba, dokumen asli) digunakan untuk mendukung alat bukti di persidangan."
     },
     {
       "ref": "Beban Pembuktian (Burden of Proof)",
-      "law": "Pasal 66 KUHAP: \"Tersangka atau terdakwa tidak dibebani kewajiban pembuktian.\"\n"
-            "Artinya, jaksa penuntut umumlah yang wajib membuktikan kesalahan, bukan terdakwa yang harus membuktikan dirinya tidak bersalah."
+      "law": "Pasal 66 KUHAP: \"Tersangka atau terdakwa tidak dibebani kewajiban pembuktian.\"\nArtinya, jaksa penuntut umumlah yang wajib membuktikan kesalahan, bukan terdakwa yang harus membuktikan dirinya tidak bersalah."
     },
     {
       "ref": "Due Process of Law & Non-Diskriminasi",
-      "law": "• Persamaan di hadapan hukum: Pasal 27 ayat (1) UUD 1945\n"
-            "• Prinsip due process dijamin melalui serangkaian prosedur dalam KUHAP (penangkapan, penahanan, penuntutan, persidangan) yang harus diikuti secara ketat."
+      "law": "• Persamaan di hadapan hukum: Pasal 27 ayat (1) UUD 1945\n• Prinsip due process dijamin melalui serangkaian prosedur dalam KUHAP (penangkapan, penahanan, penuntutan, persidangan) yang harus diikuti secara ketat."
     }
   ]
 }
