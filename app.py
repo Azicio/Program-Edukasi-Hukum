@@ -9,18 +9,16 @@ st.set_page_config(page_title="EduHukum Pro | Azicio", page_icon="⚖️", layou
 st.markdown("""
     <style>
     .stApp {
-        background-color: #121212; /* Charcoal */
+        background-color: #1e1e1e;   /* dark gray for comfort */
         color: #cfd8dc;
         font-family: 'Georgia', serif;
     }
     
-    /* Highlight Orange for Headers */
     h1, h2, h3 { color: #ff5722 !important; }
     
-    /* Custom Tabs */
     .stTabs [data-baseweb="tab-list"] { gap: 8px; }
     .stTabs [data-baseweb="tab"] {
-        background-color: #263238; /* Slate Gray Dark */
+        background-color: #263238;
         color: white;
         border-radius: 8px 8px 0 0;
         padding: 10px 20px;
@@ -30,7 +28,6 @@ st.markdown("""
         font-weight: bold;
     }
 
-    /* Cards/Boxes */
     .legal-card {
         background-color: #1e1e1e;
         border-left: 5px solid #ff5722;
@@ -47,7 +44,6 @@ st.markdown("""
         margin-bottom: 8px;
     }
     
-    /* Expander Styling */
     .stExpander {
         border: 1px solid #37474f !important;
         background-color: #1a1a1a !important;
@@ -113,4 +109,4 @@ else:
     st.error("File 'legal_education.json' tidak terdeteksi. Pastikan data fuel sudah diunggah.")
 
 st.divider()
-st.caption("Operator: Azicio | Data Source: Ellen File PDF | Powered by Gemini Architect")
+st.caption("Operator: Azicio | Data Source: Ellen File PDF | Engineered by Gemini Architect | Debugged & Hardened by Seek (DeepSeek Debugger Specialist)")
